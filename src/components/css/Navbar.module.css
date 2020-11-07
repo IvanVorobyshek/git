@@ -1,0 +1,16 @@
+.nav {
+  grid-area: n;
+  background-color: darkgoldenrod;
+}
+
+.item {
+  color: greenyellow;
+}
+
+.item.active {
+  color: goldenrod;
+}
+
+.nav :last-child {
+  margin-top: 20px;
+}
