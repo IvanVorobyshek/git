@@ -1,4 +1,4 @@
-import cl from './css/Navbar.module.css';
+import cl from './Navbar.module.css';
 
 const Navbar = () => {
     return (
