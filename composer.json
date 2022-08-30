@@ -1,0 +1,17 @@
+{
+    "name": "a/b",
+    "description": "abv",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/App"
+        }
+    },
+    "authors": [
+        {
+            "name": "asdasd"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
