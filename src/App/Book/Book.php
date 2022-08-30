@@ -6,6 +6,10 @@
             return __CLASS__.':'.__FILE__;
         }
 
+        public function say(){
+            echo 'Say Hello to my little friend!';
+        }
+
     }
 
 ?>
